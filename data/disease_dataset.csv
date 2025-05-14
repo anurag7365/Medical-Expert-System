@@ -1,0 +1,11 @@
+fever,cough,headache,disease
+1,1,1,Flu
+1,1,0,Cold
+0,1,1,Migraine
+0,0,1,Cold
+1,0,1,Flu
+0,1,0,Migraine
+1,0,0,Flu
+1,1,1,Cold
+0,0,0,Migraine
+1,1,0,Flu
